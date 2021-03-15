@@ -3,4 +3,4 @@
 
 
 
-A project to Study and create a model to predict teams probability of Win / Tie / Lose.
+A project to Study and create a model to predict teams probability of Winning / Tying / Losing.
